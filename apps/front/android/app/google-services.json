@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509293284157",
+    "project_id": "amquiz-react",
+    "storage_bucket": "amquiz-react.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509293284157:android:0b8ffac6fce6fabec39354",
+        "android_client_info": {
+          "package_name": "com.amquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509293284157-7pvprjn67475l1tak0p8i2cs9murfe3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYz3G--wdyviASFCk3P8gn8uKhexYhlH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509293284157-7pvprjn67475l1tak0p8i2cs9murfe3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

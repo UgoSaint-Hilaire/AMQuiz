@@ -1,0 +1,7 @@
+{
+  "git.openRepositoryInParentFolders": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
